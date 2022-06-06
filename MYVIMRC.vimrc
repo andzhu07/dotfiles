@@ -1,4 +1,4 @@
-syntax off
+syntax on
 set number
 set ruler
 set autoindent
@@ -10,6 +10,6 @@ set softtabstop=4
 set backspace=indent,eol,start
 filetype plugin indent on
 
-color default
+color blackpuff
 hi Comment ctermfg=green
-hi LineNr ctermfg=3
+" hi LineNr ctermfg=3
