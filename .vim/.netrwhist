@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =7
+let g:netrw_dirhist_7='/Users/taylor/fun/cpp'
+let g:netrw_dirhist_6='/Users/taylor/fun/testenv/learn-python3-thw-code/skeleton/tests'
+let g:netrw_dirhist_5='/Users/taylor/fun/testenv/learn-python3-thw-code/skeleton/NAME'
+let g:netrw_dirhist_4='/Users/taylor/fun/testenv/learn-python3-thw-code/ex47/tests'
+let g:netrw_dirhist_3='/Users/taylor/fun/testenv/learn-python3-thw-code/ex47'
+let g:netrw_dirhist_2='/Users/taylor/fun/testenv/learn-python3-thw-code/ex47/tests'
+let g:netrw_dirhist_1='/Users/taylor/fun/testenv/learn-python3-thw-code/ex47'
