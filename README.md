@@ -1,3 +1,3 @@
-## configuration
+# dotfiles 😎
 
-taylor's configurations on mbp
+*taylor@smol* on m1mbp
