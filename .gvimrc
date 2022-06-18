@@ -12,4 +12,4 @@ filetype plugin indent on
 
 color default
 hi Comment ctermfg=green
-hi LineNr ctermfg=3
+# hi LineNr ctermfg=3
