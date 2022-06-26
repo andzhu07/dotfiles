@@ -1,3 +1,3 @@
 # dotfiles 👨‍💻
 
-*taylor@smol* on m1mbp
+MacBook Pro (M1 2020)
