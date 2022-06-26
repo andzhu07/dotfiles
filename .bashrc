@@ -9,4 +9,4 @@ export EDITOR='vim'
 export LC_ALL=en_US.UTF-8
 export LANG=en_US.UTF-8
 
-export PATH="/Users/taylor/Library/Python/3.8/bin:$PATH"
+export PATH="/Users/anons/Library/Python/3.8/bin:$PATH"
