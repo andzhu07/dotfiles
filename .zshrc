@@ -3,7 +3,7 @@
 PROMPT="%m %F{red}% :: %F{green}%3~%(0?. . %F{red}%? )%F{blue}% » %f"
 
 export CLICOLOR=1
-export LSCOLORS=gxfxcxdxbxegedabagacad
+# export LSCOLORS=gxfxcxdxbxegedabagacad
 
 export EDITOR='vim'
 
