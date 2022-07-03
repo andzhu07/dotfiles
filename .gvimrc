@@ -10,6 +10,6 @@ set softtabstop=4
 set backspace=indent,eol,start
 filetype plugin indent on
 
+" color 256_noir
 color default
 hi Comment ctermfg=green
-# hi LineNr ctermfg=3
