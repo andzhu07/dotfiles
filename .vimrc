@@ -12,3 +12,8 @@ filetype plugin indent on
 
 colorscheme peachpuff
 highlight Comment ctermfg=green
+
+" call plug#begin()
+" Plug 'google/vim-maktaba'
+" Plug 'google/vim-codefmt'
+" call plug#end()
