@@ -1,19 +1,22 @@
+set nocompatible
 syntax on
-set ruler
 set number
-set hlsearch
+set ruler
 set autoindent
+set hlsearch
 set expandtab
-set tabstop=4
-set shiftwidth=4
-set softtabstop=4
+set tabstop=2
+set shiftwidth=2
+set softtabstop=2
 set backspace=indent,eol,start
 filetype plugin indent on
 
-colorscheme peachpuff
-highlight Comment ctermfg=green
+set t_Co=256
+color peachpuff
+hi Comment ctermfg=green
 
 " call plug#begin()
 " Plug 'google/vim-maktaba'
 " Plug 'google/vim-codefmt'
 " call plug#end()
+
