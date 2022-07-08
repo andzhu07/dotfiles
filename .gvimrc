@@ -15,10 +15,16 @@ set t_Co=256
 color peachpuff
 hi Comment ctermfg=green
 
-" call plug#begin()
-" Plug 'google/vim-maktaba'
-" Plug 'google/vim-codefmt'
-" call plug#end()
+call plug#begin()
+Plug 'google/vim-maktaba'
+Plug 'google/vim-codefmt'
+call plug#end()
+
+augroup autoformat_settings
+  autocmd FileType c,cpp,javascript AutoFormatBuffer clang-format
+  autocmd FileType python AutoFormatBuffer yapf
+  autocmd FileType markdown AutoFormatBuffer prettier
+augroup END
 
 set mouse=a
 
