@@ -9,6 +9,8 @@ set tabstop=2
 set shiftwidth=2
 set softtabstop=2
 set backspace=indent,eol,start
+set clipboard=unnamed
+set vb t_vb=""
 filetype plugin indent on
 
 set t_Co=256
