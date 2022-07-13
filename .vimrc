@@ -9,7 +9,6 @@ set tabstop=4
 set shiftwidth=4
 set softtabstop=4
 set backspace=indent,eol,start
-set clipboard=unnamed
 set vb t_vb=""
 filetype plugin indent on
 
