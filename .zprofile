@@ -1,5 +1,6 @@
 # PS1='%n@%m:%F{10}%(!.%1~.%~)%F{15}$ '
 PS1='%n@%m:%F{10}%(!.%1~.%~)%f$ '
+# PS1='%n@%m:%B%F{2}%(!.%1~.%~)%b%f$ '
 # PROMPT="%m %F{red}% :: %F{green}%3~%(0?. . %F{red}%? )%F{blue}% » %f"
 
 export CLICOLOR=1
